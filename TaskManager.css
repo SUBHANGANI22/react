@@ -1,0 +1,24 @@
+.calendar-button {
+    position: relative;
+  }
+  
+  .custom-popover {
+    position: absolute !important;
+    top: -30px; /* Adjust as needed to position above the icon */
+    left: 1200px;
+    z-index: 1050;
+    padding: 0; /* Remove extra padding */
+  }
+  
+  .custom-datepicker {
+    padding: 0; /* Remove extra padding */
+  }
+  
+  .edit-btn {
+    color: #868b91; /* Set a color for the edit icon */
+  }
+  
+  .delete-btn {
+    color: red; /* Set a color for the delete icon */
+  }
+  
